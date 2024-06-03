@@ -1,0 +1,1 @@
+Simple chrome extension to track time spent on sites. Time is tracked per domain visited and all tracking data is saved locally. Time updates automatically once you navigate off the current tab. Built as final project for CS81 JavaScript Programming.
